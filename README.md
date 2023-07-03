@@ -25,7 +25,7 @@ How to Use
 Clone this repository to your local machine.
 Open the project in your preferred Java IDE.
 Ensure you have the JavaFX library set up in your IDE.
-Run the Main.java file to start the application.
+Run the PasswordGenerator.java file to start the application.
 Use the GUI to specify your password requirements and generate a secure password.
 
 Contribution
